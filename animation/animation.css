@@ -1,0 +1,22 @@
+img {
+    width:50px;
+    height:80px;
+
+}
+
+svg{
+    width:33px;
+    height:52px;
+    position: absolute;
+}
+
+
+#mask1, #mask2 {
+    left:17px;
+    top:11px;
+
+}
+
+#mask2{
+    width:31px;
+}
