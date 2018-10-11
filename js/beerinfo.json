@@ -1,0 +1,72 @@
+[
+  {
+    "name": "El Hefe",
+    "description": {},
+    "category": "Hefeweizen",
+    "label": "elhefe.png",
+    "alc": 5.4
+  },
+  {
+    "name": "Fairy Tale Ale",
+    "description": {},
+    "category": "IPA",
+    "label": "fairytaleale.png",
+    "alc": 7.9
+  },
+  {
+    "name": "GitHop",
+    "description": {},
+    "category": "IPA",
+    "label": "githop.png",
+    "alc": 8.7
+  },
+  {
+    "name": "Hollaback Lager",
+    "description": {},
+    "category": "Oktoberfest",
+    "label": "hollaback.png",
+    "alc": 6.5
+  },
+  {
+    "name": "Hoppily Ever After",
+    "description": {},
+    "category": "IPA",
+    "label": "hoppilyeverafter.png",
+    "alc": 4.5
+  },
+  {
+    "name": "Mowintime",
+    "description": {},
+    "category": "European Lager",
+    "label": "mowintime.png",
+    "alc": 4
+  },
+  {
+    "name": "Row 26",
+    "description": {},
+    "category": "Stout",
+    "label": "row26.png",
+    "alc": 6.2
+  },
+  {
+    "name": "Ruined Childhood",
+    "description": {},
+    "category": "Belgian Specialty Ale",
+    "label": "ruinedchildhood.png",
+    "alc": 10
+  },
+  {
+    "name": "Sleighride",
+    "description": {},
+    "category": "Belgian Specialty Ale",
+    "label": "sleighride.png",
+    "alc": 8.5
+  },
+  {
+    "name": "Steampunk",
+    "description": {},
+    "category": "California Common",
+    "label": "steampunk.png",
+    "alc": 5
+  }
+]
